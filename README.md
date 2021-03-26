@@ -1,5 +1,4 @@
-<h2> Hello there</h2>
-<h3> I'm Paulo Mattos!</h3>
+<h2> Hello there! I'm Paulo Mattos</h2>
 <p><em>
 Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2016 - Currently)
 </br>Programer at <a href="http://minervabots.poli.ufrj.br">MinervaBots</a>. (Feb 2017 - Feb 2019)
