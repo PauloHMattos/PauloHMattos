@@ -1,6 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloHMattos&theme=dracula&bg_color=0D1117&title_color=006f66&icon_color=006f66&show_icons=true&hide_border=true)
-
-
 <h2> Hello there</h2>
 <h3> I'm Paulo Mattos!</h3>
 <p><em>
