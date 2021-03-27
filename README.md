@@ -41,4 +41,7 @@ Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UF
   <a href="https://github.com/PauloHMattos">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="mailto:paulo.mattos@poli.ufrj.br">
+    <img src="https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
