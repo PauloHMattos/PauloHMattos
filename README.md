@@ -29,7 +29,7 @@ Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UF
 
 <p align="left">
   <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=paulohmattos&theme=dracula&bg_color=0D1117&title_color=006f66&icon_color=006f66&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=paulohmattos&count_private=true&theme=dracula&bg_color=0D1117&title_color=006f66&icon_color=006f66&show_icons=true&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohmattos&theme=dracula&bg_color=0D1117&title_color=006f66&layout=compact&hide=css,html&hide_border=true" />
   <br/>
 </p>
