@@ -13,8 +13,11 @@ Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UF
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img alt="Unity" src="https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>  
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>  
   <img alt="Arduino" src="https://img.shields.io/badge/arduino-00979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
+  <br/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>  
+  <img alt="Node.js" src="https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="VueJS" src="https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=vuejs&logoColor=white"/>
   <br/>
   <img alt="Git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Actions" src="https://img.shields.io/badge/actions-2088FF.svg?&style=for-the-badge&logo=github&logoColor=white"/>
@@ -23,9 +26,7 @@ Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UF
   <br/>
   Currently learning:
   <br/>
-  <img alt="Node.js" src="https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="VueJS" src="https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=vuejs&logoColor=white"/>
 </p>
 
 <p align="center">
