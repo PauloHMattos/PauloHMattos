@@ -1,10 +1,11 @@
-<h2> Hello there! I'm Paulo Mattos</h2>
+<h2>👋 Hello, I'm Paulo Mattos</h2>
+
 <p><em>
-I'm brazialian software engineer and partner <a href="https://www.linkedin.com/company/inoa/">Inoa</a>.<br/>
-My specialty are high performence distributes systems.<br>
-<br/>
-Currently I work mostly with C#, RabbitMQ and PostgreSQL
-</em></p><br>
+Brazilian software engineer and partner at 
+<a href="https://www.linkedin.com/company/inoa/">Inoa</a>.<br/>
+I specialize in building high-performance, distributed systems.<br/><br/>
+Currently working mostly with <strong>C#</strong>, <strong>RabbitMQ</strong>, and <strong>PostgreSQL</strong>.
+</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mattos-paulo/">
